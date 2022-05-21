@@ -1,4 +1,4 @@
-# Sticky Notes
+# To-Do List
 Create your To Do List for anything you want.
 
 ## Instructions
